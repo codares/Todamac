@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TODAMaC</string>
+    <string name="title_activity_driver_map">DriverMapActivity</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_customer_map">CustomerMapActivity</string>
+    <string name="api_key">AIzaSyC8vQ28_RnnqHile6ds8SbZ6ABEYWRPyKw</string>
+    <string name="navigation_drawer_open">Menu opened</string>
+    <string name="navigation_drawer_close">menu closed</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_profile"
+            android:title="My Profile"
+            android:icon="@drawable/profile_icon"/>
+        <item
+            android:id="@+id/nav_history"
+            android:title="Ride History"
+            android:icon="@drawable/history_white"/>
+        <item
+            android:id="@+id/nav_messages"
+            android:title="Messages"
+            android:icon="@drawable/mail_icon"/>
+        <item
+            android:id="@+id/nav_notif"
+            android:title="Notification"
+            android:icon="@drawable/notif_icon"/>
+        <item
+            android:id="@+id/logout"
+            android:title="Logout"
+            android:icon="@drawable/logout_icon" />
+
+
+    </group>
+
+</menu>
